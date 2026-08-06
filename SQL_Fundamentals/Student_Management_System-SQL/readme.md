@@ -1,4 +1,4 @@
-Student Management Database (PostgreSQL)
+# Student Management Database (PostgreSQL)
 
 A beginner-friendly PostgreSQL project designed to practice core SQL concepts through a simple Student Management System.
 
